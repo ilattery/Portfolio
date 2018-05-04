@@ -1,0 +1,149 @@
+.dropdown-menu {
+	background-color: beige;
+}
+
+h3 {
+	text-decoration: underline;
+	color: white;
+}
+
+.about {
+	display: flex;
+	width: 100%;
+	height: 400px;
+	background: #483D8B;
+	color: white;
+	border-top: solid;
+	border-color: black;
+}
+
+.portfolio {
+	display: flex;
+	border-top: solid;
+	border-color: black;
+	width: 100%;
+	height: 500px;
+	padding: auto;
+	background: #696969;
+	color: white;
+}
+
+.connect {
+	display: flex;
+	border-top: solid;
+	border-color: black;
+	width: 100%;
+	height: 200px;
+	padding: 20px 0px 20px 0px;
+}
+
+footer {
+	padding: 20px 0px 10px 0px;
+	margin: 0px 0px 0px 0px;
+	border-top: solid;
+	border-color: black;
+	background: #483D8B;
+	width: 100%;
+	color: white;
+}
+
+.p1 {
+	float: left;
+	width: 33%;
+	margin: auto;
+	text-align: center;
+}
+
+.p2 {
+	display: inline;
+	justify-content: center;
+	width: 33%;
+	margin: auto;
+  text-align: center;
+}
+
+.p3 {
+	float: right;
+	width: 33%;
+	margin: auto;
+	text-align: center;
+}
+
+.left {
+	float: left;
+	width: 50%;
+	margin: auto
+}
+
+.right {
+	float: right;
+	width: 50%;
+	margin: auto;
+}
+
+.pad {
+	padding: 20px;
+	margin: 10px;
+}
+
+.fa-linkedin {
+	border-radius: 10px;
+	width: 50px;
+	height: 52px;
+	border-style: solid;
+	border-color: #0077B5;
+	color: #0077B5;
+}
+
+.fa-github {
+	background-color: grey;
+	color: white;
+	border-radius: 10px;
+	width: 50px;
+	height: 50px;
+}
+
+.fa-facebook {
+	background-color: #3b4998;
+	color: white;
+	border-radius: 10px;
+	width: 50px;
+	height: 50px;
+}
+
+.fa-twitter {
+	background-color: #55acee;
+	color: white;
+	border-radius: 10px;
+	width: 50px;
+	height: 50px;
+}
+
+.fa-instagram {
+	background: radial-gradient(
+		circle at 30% 107%,
+		#fdf497 0%,
+		#fdf497 5%,
+		#fd5949 45%,
+		#d6249f 60%,
+		#285aeb 90%
+	);
+	color: white;
+	border-radius: 10px;
+	width: 50px;
+	height: 50px;
+}
+
+.fa-at {
+	background-color: black;
+	color: red;
+	border-radius: 10px;
+	width: 50px;
+	height: 50px;
+}
+
+.fa {
+	padding: 10px;
+	font-size: 30px;
+	text-align: center;
+}
